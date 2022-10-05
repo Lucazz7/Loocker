@@ -7,5 +7,5 @@
   filters:
 
   elements:
-    - name: hello_world
-      type: looker_column
+    - name: loocker
+      type: mv_forecast
