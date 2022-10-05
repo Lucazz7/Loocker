@@ -40,7 +40,7 @@ export const HelloWorld: React.FC = () => {
     <ComponentsProvider>
       <Space around>
         <Span fontSize="xxxxxlarge">
-          {message}
+          Ola
         </Span>
       </Space>
     </ComponentsProvider>
